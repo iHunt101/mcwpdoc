@@ -22,7 +22,20 @@ Header style 2 features a horizontal navbar. Here is how it looks like for the s
 
 1. Navigate to **MC Options**.
 2. Click on **Header** Tab.
-3. You will find **Header Style** option with **Header Style 1** and **Header Style 2** as 2 choices presented as radio buttons.
+3. You will find **Header Style** option with **Header 1** and **Header 2** as two choices presented as radio buttons.
 4. Click on the radio button that represents the style of your choice and click on **Save Changes**.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/choose-header-style.png)
+
+## Contact Number and Support Email
+
+Media Center displays a contact phone number and support email just above the search bar in the header. Here is how you configure them :
+
+1. Navigate to **MC Options**.
+2. Click on **Header** Tab.
+3. Scroll down and you will find **Main Header** section.
+4. It has 2 fields **Support Phone Number** and **Support Email Address**.
+5. Fill in each of the text boxes with your support phone number and email address.
+4. Scroll down and click on "Save Changes** button.
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/choose-support-details.png)
