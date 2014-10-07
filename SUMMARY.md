@@ -10,7 +10,7 @@
    * [General](dummy_content/general_setup.md)
        * [Logo and Favicon](dummy_content/logo_and_favicon.md)
        * [Theme Color](dummy_content/theme_color.md)
-       * [Header Style](dummy_content/header_style.md)
+       * [Header](dummy_content/header_style.md)
    * [Navigation](dummy_content/navigation)
    * [Product Items](dummy_content/product_items.md)
    * [Sliders](dummy_content/sliders)
