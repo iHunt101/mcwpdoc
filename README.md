@@ -1,4 +1,2 @@
-mcwpdoc
+MediaCenter Documentation
 =======
-
-MediaCenter Wordpress Theme Documentation
