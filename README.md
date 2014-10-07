@@ -5,7 +5,9 @@ Thank you for purchasing this theme. We've put in lots of love in developing thi
 
 ### Get in touch with us
 
-Please do not hesitate to get in touch with us if you need help. We also welcome your feedback and suggestions. Please contact us through our [**help center](http://transvelo.freshdesk.com/) and we are happy to help. We usually respond to all queries within 24 hours during weekdays. We are mostly not available during weekends and public holidays. We live across different timezones and have different people for answering different queries. So if we find us online responding to other comments and not yours please be patient with us.
+Please do not hesitate to get in touch with us if you need help. We also welcome your feedback and suggestions. Please contact us through our [**help center**](http://transvelo.freshdesk.com/) and we are happy to help.
 
-Thank you,
-[The Transvelo Team](http://transvelo.com/) 
+We usually respond to all queries within 24 hours during weekdays. We are mostly not available during weekends and public holidays. We live across different timezones and have different people for answering different queries. So if we find us online responding to other comments and not yours please be patient with us.
+
+Thank you,<br/>
+[The Transvelo Team](http://transvelo.com/)
