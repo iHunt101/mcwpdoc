@@ -12,7 +12,7 @@
 #### Main Header
 
 *  Enable / Disable the Sticky Header.
-*  Update the phone Number for support.
+*  Update the Phone Number for support.
 *  Update the Email Address for support.
 
 
