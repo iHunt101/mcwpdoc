@@ -18,9 +18,9 @@ In the preview it has 3 widgets. Technically it is possible to have more than or
 
 By default the footer widget area is populated with 3 instances of 2 widgets and they are :
 
-1. **WooCommerce Products** Widgets - configured to display **Featured Products**
-2. **WooCommerce Products** Widgets - configured to display **On Sale Products**
-3. **WooCommerce Top Rated Products** Widgets.
+1. **WooCommerce Products** Widget - configured to display **Featured Products**
+2. **WooCommerce Products** Widget - configured to display **On Sale Products**
+3. **WooCommerce Top Rated Products** Widget.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/footer-widget-area.png)
 
@@ -36,7 +36,18 @@ The **Footer Contact Information** is just below the **Footer widget area** and 
 
 ## Footer Bottom Widget Area
 
-The **Footer Bottom Widget Area** is adjacent to **Footer Contact Information** section. It is a widgetized area and it can contain any number of widgets. We have used widgets that display links.
+The **Footer Bottom Widget Area** is adjacent to **Footer Contact Information** section. It is a widgetized area and it can contain any number of widgets. It can be populated from **Appearance > Widgets > Footer Bottom Widget Area**.
+
+In the preview it has 4 widgets. Technically it is possible to have more than or less than 4 widgets.
+
+By default the footer widget area is populated with 4 instances of 4 widgets and they are :
+
+1. **WooCommerce Categories** Widgets - configured to display **Find It Fast** section
+2. **WP Meta** Widget - configured to display **Meta** Information links.
+2. **WP Pages** Widget - configured to display **Pages** menu links.
+3. **WP Text/HTML** Widget - configured to display **Information** section.
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/footer-bottom-widget-area.png)
 
 ## Bottom Bar
 
