@@ -34,6 +34,6 @@ A megamenu item in **MediaCenter** theme is a **Static Block**. This **Static Bl
 6. Drag the **Test Megamenu item** box and drop it under any existing menu as a submenu.<br/>
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/static-block-submenu.png)
 7. Click on **Save Menu**.
-8. Now the megamenu will is added as a submenu and it should look like this: <br/> ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/submenu.megamenu-as-submenu.png)
+8. Now the megamenu will is added as a submenu and it should look like this: <br/> ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/megamenu-as-submenu.png)
 
 <div class="alert alert-danger">**Alert :** Please do not use **Static Content Block** as a top level menu item or as submenu menu item beyond level 1. Do not use other menu items with **Static Content Block** menu item.</div>

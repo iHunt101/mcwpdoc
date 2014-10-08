@@ -17,6 +17,7 @@
        * [Product Labels](setting_up_the_theme/product_labels.md)
    * [Navigation](setting_up_the_theme/navigation.md)
        * [Megamenu Dropdown](setting_up_the_theme/megamenu_dropdown.md)
+       * [Advanced Megamenu Dropdown](setting_up_the_theme/advanced_megamenu_dropdown.md)
    * [Product Items](setting_up_the_theme/product_items.md)
    * [Sliders](setting_up_the_theme/sliders)
    * [Home Page](setting_up_the_theme/home_page)
