@@ -30,7 +30,7 @@
        * [Track your Order](setting_up_the_theme/track_your_order)
    * [Sidebars](setting_up_the_theme/sidebars)
 * [Theme Options](theme_options/README.md)
-   * [General](theme_options/general)
+   * [General](theme_options/general.md)
    * [Header](theme_options/header)
    * [Navigation](theme_options/navigation)
    * [Footer](theme_options/footer)
