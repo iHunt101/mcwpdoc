@@ -1,0 +1,18 @@
+# Product Comparison
+
+1. Create a new Page from **Pages > Add New**.
+2. Give it a title, say **Product Comparison**.
+3. In the content editor, paste this shortcode `[mc_product_comparison]`
+4. In Page Attributes, select **Free Style Page** under **Template**.
+5. Click on **Publish**.
+6. Navigate to **MC Options > Shop Tab > Shop Page Settings**.
+7. Click on the dropdown next to **Product Comparison Page** and select the page you just created.
+8. Scroll down and click on **Save Changes**.
+
+## Product Comparison Page Editor
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/page-product-comparison.png)
+
+## Assigning Product Comparison Page in MC Options
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/mc-options-shop-page-settings.png)
