@@ -4,7 +4,9 @@ Now for the fun stuff, adding your products! But before diving into your first p
 
 ## Additional Product Information
 
-In addition to the product information that can be added to a product, **MediaCenter** adds two more important information to a product. They are **Product Brands** and **Product Labels**.
+In addition to the product information that can be added to a product, **MediaCenter** allows you to add and display two more important information to a product. They are **Product Brands** and **Product Labels**.
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/labels-and-brands-ui.png)
 
 This feature is available via **Media Center Extensions** plugin that comes bundled with the theme. Make sure the plugin is installed and activated. Lets see in detail about these two product taxonomies.
 
