@@ -1,0 +1,50 @@
+# Footer
+
+**MediaCenter**'s footer has 2 rows separated by a **product search** bar.
+
+* The first row is called **Footer Widget area**
+* The second row has 2 sections a widget area called **Footer Bottom Widget area** and **Footer Contact Information** section.
+* Below the footer is the **Bottom Bar** which has **Copyright Information** in left and **Payment Logos** in right.
+
+Here is the Footer's anatomy:
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/footer-anatomy.png)
+
+## Footer Widget Area
+
+The **footer widget area** is the top most row in the footer. It is a widgetized area and can be populated from **Appearance > Widgets**.
+
+In the preview it has 3 widgets. Technically it is possible to have more than or less than 3 widgets and the width will be automatically adjust to be equally shared by the number of widgets.
+
+By default the footer widget area is populated with 3 instances of 2 widgets and they are :
+
+1. **WooCommerce Products** Widgets - configured to display **Featured Products**
+2. **WooCommerce Products** Widgets - configured to display **On Sale Products**
+3. **WooCommerce Top Rated Products** Widgets.
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/footer-widget-area.png)
+
+## Footer Contact Information
+
+The **Footer Contact Information** is just below the **Footer widget area** and is separated by **Product Search** bar. This section has :
+
+* **Logo** - This is the same as the website logo and can be set from **MC Options > General Tab**.
+* **Footer Contact Info Text** - The default value is *"Feel free to contact us via phone,email or just send us mail."* and can be changed from **MC Options > Footer Tab**.
+* **Footer Contact Info Address** - The default value is "*17 Princess Road, London, Greater London NW1 8JR, UK 1-888-8MEDIA (1-888-892-9953)*" and can be changed from **MC Options > Footer Tab**<br/>![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/footer-contact-information.png)
+* **Get in Touch** - Links to Social media profiles. It can be set from **MC Options > Social Media**<br/>![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/theme-options-social-media.png)
+* Edit the information as required and click on **Save Changes** in **MC Options** page.
+
+## Footer Bottom Widget Area
+
+The **Footer Bottom Widget Area** is adjacent to **Footer Contact Information** section. It is a widgetized area and it can contain any number of widgets. We have used widgets that display links.
+
+## Bottom Bar
+
+The **Bottom Bar** has two sections.
+
+1. **Copyright Information** - the default is "*&copy; &lt;a href="&lt;website-url&gt;"&gt;Media Center&lt;/a&gt; - All Rights Reserved.*"
+2. **Payment Logos** - Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **40x29 pixels**
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/theme-options-bottom-bar.png)
+
+

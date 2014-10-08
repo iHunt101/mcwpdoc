@@ -11,6 +11,7 @@
        * [Logo and Favicon](setting_up_the_theme/logo_and_favicon.md)
        * [Theme Color](setting_up_the_theme/theme_color.md)
        * [Header](setting_up_the_theme/header_style.md)
+       * [Footer](setting_up_the_theme/footer.md)
    * [Adding Products](setting_up_the_theme/adding_products.md)
        * [Product Brands](setting_up_the_theme/product_brands.md)
        * [Product Labels](setting_up_the_theme/product_labels.md)
