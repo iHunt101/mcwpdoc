@@ -12,7 +12,7 @@ Here is the Footer's anatomy:
 
 ## Footer Widget Area
 
-The **footer widget area** is the top most row in the footer. It is a widgetized area and can be populated from **Appearance > Widgets**.
+The **footer widget area** is the top most row in the footer. It is a widgetized area and can be populated from **Appearance > Widgets > Footer Widget Area**.
 
 In the preview it has 3 widgets. Technically it is possible to have more than or less than 3 widgets and the width will be automatically adjust to be equally shared by the number of widgets.
 
