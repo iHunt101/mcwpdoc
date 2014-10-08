@@ -34,8 +34,8 @@ Media Center displays a contact phone number and support email just above the se
 1. Navigate to **MC Options**.
 2. Click on **Header** Tab.
 3. Scroll down and you will find **Main Header** section.
-4. It has 2 fields **Support Phone Number** and **Support Email Address**.
-5. Fill in each of the text boxes with your support phone number and email address.
+4. It has 2 fields **Support Phone Number** and **Support Email Address** by default the two text fields are pre-populated with dummy values **(+800) 123 456 7890** and **contact@support.com** respectively.
+5. Replace the prefilled values of the text boxes with your support phone number and email address.
 4. Scroll down and click on "Save Changes** button.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/choose-support-details.png)
