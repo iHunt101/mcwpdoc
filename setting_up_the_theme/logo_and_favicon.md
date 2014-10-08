@@ -2,7 +2,7 @@
 
 To set the logo and favicon for your website, please use the **MC Options** page. By default, Media Center theme logo and favicon is loaded.
 
-> We recommend a png file for logo which has a transparent background. The recommended resolution of logo is : **233x54 pixels**.
+<div class="alert alert-info">We recommend a png file for logo which has a transparent background. The recommended resolution of logo is : **233x54 pixels**.</div>
 
 Follow the steps to setup the logo and favicon for your website.
 
