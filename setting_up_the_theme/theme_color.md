@@ -10,6 +10,8 @@
 4. Choose the color of your choice from the dropdown for **Main Theme Color**. Colors available : **green**, **blue**, **red**, **orange**, **navy** and **dark green**.
 5. Click on **Save Changes** button.
 
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/theme-option-styling.png)
+
 
 ## Using a custom theme color
 

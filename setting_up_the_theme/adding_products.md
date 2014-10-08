@@ -10,8 +10,8 @@ In addition to the product information that can be added to a product, **MediaCe
 
 This feature is available via **Media Center Extensions** plugin that comes bundled with the theme. Make sure the plugin is installed and activated. Lets see in detail about these two product taxonomies.
 
-1. [**Product Brands**]()
-2. [**Product Labels**]()
+1. [**Product Brands**](setting_up_the_theme/product_brands.md)
+2. [**Product Labels**](setting_up_the_theme/product_labels.md)
 
 
 ## Adding Brands and Labels to your Product

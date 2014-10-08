@@ -3,8 +3,8 @@
 **MediaCenter**'s footer has 2 rows separated by a **product search** bar.
 
 * The first row is called **Footer Widget area**
-* The second row has 2 sections a widget area called **Footer Bottom Widget area** and **Footer Contact Information** section.
-* Below the footer is the **Bottom Bar** which has **Copyright Information** in left and **Payment Logos** in right.
+* The second row has 2 sections, a widget area called **Footer Bottom Widget area** and **Footer Contact Information** section.
+* Below the footer is the **Bottom Bar** which has **Copyright Information** on left and **Payment Logos** on right.
 
 Here is the Footer's anatomy:
 
@@ -40,18 +40,22 @@ The **Footer Bottom Widget Area** is adjacent to **Footer Contact Information** 
 
 In the preview it has 4 widgets. Technically it is possible to have more than or less than 4 widgets.
 
-By default the footer widget area is populated with 4 instances of 4 widgets and they are :
+By default the footer bottom widget area is populated with 4 instances of 4 widgets and they are :
 
 1. **WooCommerce Categories** Widgets - configured to display **Find It Fast** section
 2. **WP Meta** Widget - configured to display **Meta** Information links.
 2. **WP Pages** Widget - configured to display **Pages** menu links.
 3. **WP Text/HTML** Widget - configured to display **Information** section.
 
+<div class="alert alert-warning alert-block">
+**Pro Tip:** Each widget in **footer bottom widget area** has a margin-right of **60px** ( CSS Rule : **#footer .footer-bottom-widget-area .columns**). Adjust the margin-right value to accomodate more widgets.
+</div>
+
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/footer-bottom-widget-area.png)
 
 ## Bottom Bar
 
-The **Bottom Bar** has two sections.
+The **Bottom Bar** has two sections and these 2 sections can be configured via **MC Options > Footer Tab**.
 
 1. **Copyright Information** - the default is "*&copy; &lt;a href="&lt;website-url&gt;"&gt;Media Center&lt;/a&gt; - All Rights Reserved.*"
 2. **Payment Logos** - Displays all the payment methods available to the user. There is no default and each logo needs to be uploaded to media library. The recommended resolution for payment logos is **40x29 pixels**
