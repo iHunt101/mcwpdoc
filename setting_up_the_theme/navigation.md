@@ -2,10 +2,10 @@
 
 **MediaCenter** has four navigation menus. They are :
 
-1. **Top bar left navigation**
-2. **Top bar right navigation**
-3. **Main Navigation**
-4. **Shop by Departments**
+1. Top Bar Left Navigation
+2. Top Bar Right Navigation
+3. Main Navigation
+4. Shop by Departments Navigation
 
 ## Navigation Menus in Header Style 1
 
@@ -27,7 +27,7 @@ By default Bootstrap supports only single level dropdown. This is keeping in min
 
 ## Dropdown Trigger & Animation
 
-Dropdown menu can be triggered by either : **Click** or **Hover**. Once the dropdown menu is triggered, it can be shown with or without an animation. There are more than 25 animation effects available for dropdown trigger animation including :
+Dropdown menu can be triggered by either : **Click** or **Hover** action. Once the dropdown menu is triggered, it can be shown with or without an animation. There are more than 25 animation effects available for dropdown trigger animation including :
 
 1. BounceIn
 2. FadeIn
