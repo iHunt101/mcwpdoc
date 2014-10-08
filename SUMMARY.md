@@ -49,8 +49,8 @@
    * [ Vertical Menu](sliders/vertical_menu.md)
    * [ Service Icon](sliders/service_icon.md)
    * [ Team Member](sliders/team_member.md)
-   * [ Google Map](sliders/google_map)
-   * [ Home Page Tabs](sliders/home_page_tabs)
+   * [ Google Map](sliders/google_map.md)
+   * [ Home Page Tabs](sliders/home_page_tabs.md)
 * [FAQ](faq/README.md)
 * [Credits](credits/README.md)
 
