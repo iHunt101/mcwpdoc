@@ -20,3 +20,11 @@ Now that we've configured the general settings of the theme, its time for the fu
 
 While adding products, **MediaCenter** theme allows you to add additional information to the products. Those additional information are **Product Brands** and **Product Labels**. Read about [managing Product Brands and Product Labels]().
 
+## Navigation
+
+Now that you have added products to your shop and pages to your website. We need to make sure that the pages and products are accessible. For that we need to setup the navigation of the website through navigation menus.
+
+
+
+
+

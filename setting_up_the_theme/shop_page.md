@@ -1,6 +1,6 @@
-# Shop & Category Pages
+# Product Archive/Shop Page
 
-A Product Archive/Shop page is a **WooCommerce** page and it displays according to the settings given in **WooCommerce > Settings > Products**.
+A Product Archive/Shop page is a **WooCommerce** page used to display the products added. It displays according to the settings given in **WooCommerce > Settings > Products**.
 
 ## Available Layouts
 

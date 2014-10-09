@@ -20,7 +20,8 @@ A megamenu item in **MediaCenter** theme is a **Static Block**. This **Static Bl
 
 1. Navigate to **Static Content > Add New**.
 2. Give it a title, lets say **"Test Megamenu Item"** item. The title is not used anywhere in displaying the menu.
-3. Click on **Backend Editor**. It will display Visual Composer Backend Editor. We will use this back end editor to build our megamenu item.<br/>![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/test-megamenu-item.png)
+3. Click on **Backend Editor**. It will display Visual Composer Backend Editor. We will use this back end editor to build our megamenu item.
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/test-megamenu-item.png)
 4. Let us add a simple text block. Click on **Add text block** button and the result will look like this.<br/>![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/add-text-block.png)
 5. Click on **Publish** button.
 
