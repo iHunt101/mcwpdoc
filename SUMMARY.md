@@ -23,7 +23,7 @@
    * [Sliders](setting_up_the_theme/sliders)
    * [Home Page](setting_up_the_theme/home_page.md)
        * [Home Page Version 1](setting_up_the_theme/home_page_version_1.md)
-       * [Home Page Version 2](setting_up_the_theme/home_page_version_2)
+       * [Home Page Version 2](setting_up_the_theme/home_page_version_2.md)
    * [Blog Page](setting_up_the_theme/blog_page)
    * [About Page](setting_up_the_theme/about_page.md)
        * [About Page Version1](setting_up_the_theme/about_page_version1.md)
