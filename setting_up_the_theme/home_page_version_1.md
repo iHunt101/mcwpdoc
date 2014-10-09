@@ -30,7 +30,7 @@ Home Page<sup>v1</sup> of Media Center is built using **Visual Composer**.It has
 * It has one element
 * Home Page Tabs : Here i pasted a Home Page Tabs Setting Page image.
 
-![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/homev1-homePgTab-setting.png.png)
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/homev1-homePgTab-setting.png)
 
 ### Row 4 ###
 * It has one element
