@@ -27,6 +27,8 @@
        * [About Page Version1](setting_up_the_theme/about_page_version1.md)
        * [About Page Version2](setting_up_the_theme/about_page_version2.md)
    * [Contact Page](setting_up_the_theme/contact_page)
+       * [Contact Page Version 1](setting_up_the_theme/contact_page_version_1.md)
+       * [Contact Page Version 2](setting_up_the_theme/contact_page_version_2.md)
    * [Blog Page](setting_up_the_theme/blog_page.md)
    * [About Page](setting_up_the_theme/about_page.md)
    * [Contact Page](setting_up_the_theme/contact_page.md)
