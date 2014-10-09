@@ -23,6 +23,8 @@
    * [Home Page](setting_up_the_theme/home_page.md)
    * [Blog Page](setting_up_the_theme/blog_page)
    * [About Page](setting_up_the_theme/about_page.md)
+       * [About Page Version1](setting_up_the_theme/about_page_version1.md)
+       * [About Page Version2](setting_up_the_theme/about_page_version2.md)
    * [Contact Page](setting_up_the_theme/contact_page)
    * [FAQ Page](setting_up_the_theme/faq_page.md)
    * [WooCommerce Pages](setting_up_the_theme/woocommerce_pages.md)
