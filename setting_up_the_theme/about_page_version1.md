@@ -54,7 +54,7 @@ Again this column 2 consider as a row and split it into 3 columns in ratio 1/3 :
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1-serviceIcon-setting.png)
 
-### Thrid Row ###
+### Row 3 ###
 
 * It has only one column.
 * Text Block : Here is an example short code for that element
