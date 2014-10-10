@@ -5,3 +5,5 @@
 3. In the content editor, paste this shortcode `[woocommerce_order_tracking]`
 4. Under **Discussion**, uncheck **Allow Comments** and **Allow trackbacks and pingbacks on this page**.
 5. Click on **Publish**.
+
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/page-track-your-order.png)

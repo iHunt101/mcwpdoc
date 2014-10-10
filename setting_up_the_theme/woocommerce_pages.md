@@ -14,4 +14,3 @@ In addition to the above pages there are few other WooCommerce pages that **Medi
 1. Wishlist
 2. Product Comparison
 3. Track your Order
-4. Terms and Conditions.

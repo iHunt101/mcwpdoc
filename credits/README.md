@@ -28,3 +28,4 @@
 * [WP Post Formats](https://github.com/crowdfavorite/wp-post-formats/) by Crowd Favorite
 * [TGM-Plugin-Activation](https://github.com/thomasgriffin/TGM-Plugin-Activation) by Thomas Griffin
 * [Bootstrap Nav Walker](https://github.com/twittem/wp-bootstrap-navwalker/) by Edward McIntyre
+* [JPlayer](http://jplayer.org/) by Happyworm Ltd.
