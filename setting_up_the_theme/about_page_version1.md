@@ -1,18 +1,19 @@
 # About Page Version1
 
 
-About Page<sup>v1</sup> is page where we show one type about page listing for your reference using **Visual Composer**.I hope it will help you.
-
-
- * Our About Page<sup>v1</sup> will now have 4 rows.
- * On the top-right of each row, you will find a grid icon, next to the move icon.
- * Click on the grid icon and it will expand to various grid option available.
+About Page<sup>v1</sup> of Media Center is built using **Visual Composer**.It has 3 rows. The **Visual Composer** Backend editor of the page look like this
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1.png)
 
-### First Row ###
-* Here we set 2 columns with the grid which is set as 8/12 + 4/12.
-* The 8/12 column contains Text Block Setting it had a code like, <br/><br/>
+### Row 1 ###
+* It has two columns in ratio 8/12 : 4/12
+
+####Column 1 (8/12) :####
+
+It has one element.
+
+* Text Block : Here is an example setting for that element
+<br/><br/>
 
 ```
 <h2>Who we are</h2>
@@ -23,40 +24,42 @@ Mauris tempus erat laoreet turpis lobortis, eu tincidunt erat fermentum. Aliquam
 Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna, vitae ultrices lacus purus vitae metus. Ut nec odio facilisis, ultricies nunc eget, fringilla orci. Nulla lobortis sem dapibus, aliquet turpis eu, ornare neque. Sed nec sem diam. Mauris neque purus, malesuada at velit vel, tempus congue nisl. Ut aliquam semper augue hendrerit varius. Fusce pretium tempus volutpat. Vivamus dignissim posuere aliquet. In hac habitasse platea dictumst.
 
 ```
-![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1-r1-c1.png)
+#### Column 2 (4/12) :####
 
-* The next 4/12 column contain Team Member Setting.
-* hover in this column you can see a edit icon once you click this you can see these field.
+It has two instances Team.
+
+* Team Member Setting : Here is an example setting for that instances Team
+<br/><br/>
+.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/about-teamMember-setting.png)
 
-| Field | Type | Description | Default
-| -- | -- | -- | -- |
-| **Full Name** | Text | Full Name of a Team Member. | none
-| **Designation** | Text |Designation of a Team Member.| none
-| **Profile Pic** | Image Upload |The Profile Picture.| none
-| ** Display Style ** | Dropdown | Set a Style for Profile image. |  Square
-| ** Link ** | Text | URL that links the Team Member. |  # |
-| ** Extra Class ** | Text | Additional classes that may be applied to the banner. | none
+### Row 2 ###
+* It has two columns in ratio 3/12 : 9/12.
 
-![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1-r1-c2.png)
+#### Column 1 (3/12) :####
 
-### Second Row ###
+It has one element.
 
-* It contains 2 columns and the grid which is set as 3/12 + 9/12.
-* The 3/12 column contains Text block like <br/><br/>
+* Text Block : Here is an example setting for that element
+<br/><br/>
 ```
 <h2>What can we do for you ?</h2>
 Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna, vitae ultrices lacus purus vitae metus.
 ```
-![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1-r2-c1.png)
 
-* And the next one which had 9/12 which is consider as another row and split it into 3 column with grid as 1/3 + 1/3 + 1/3.
-* In that each column is set as a Service icon setting.
-* It look likes,
+#### Column 2 (9/12) :####
 
-![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1-r2-c2.png)
+Again this column 2 consider as a row and split it into 3 columns in ratio 1/3 : 1/3 : 1/3
 
-### Thrid Row ###
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1-serviceIcon-setting.png)
 
-Here only one column that too a text Block to show the brands as list.
+### Row 3 ###
+
+* It has only one column.
+* Text Block : Here is an example short code for that element
+<br/><br/>
+```
+[brands per_page="6" columns="6"]
+```
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/aboutv1-r3-txtblocksetting.png)
