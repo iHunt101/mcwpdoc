@@ -2,7 +2,7 @@
 
 ## Description
 
-Allows you to add a 6-1 Products Grid title and ordering of it. It also allows you to set the category of the 6-1 Products Grid and a number of 6-1 Products Grid to be display.
+Allows you to add a 6-1 Products Grid to your page. It has 2 columns. One Column displays 6 products and the other column displays just one product along with a gallery of images.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/vc-6-1-product-grid-setting.png)
 
@@ -11,15 +11,14 @@ Allows you to add a 6-1 Products Grid title and ordering of it. It also allows y
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
 | **Title** | Text | Title of the 6-1 Products Grid. | none
-| **Show** | Dropdown | Used to choose a type of 6-1 Products Grid that you want to show in the carousel. | Recent Products
-| **IDs** | Text | Here you can specify IDs of the products that you want to show when it call by  Products ID.| none
-| ** SKUs ** | Text | Specify SKUs of the 6-1 Products Grid that you want to show when it call by  Products SKUs. |  none
-| ** Category ** | Text |Specify the category slug of the category of 6-1 Products Grid you want to show when it call by  Products Category. | none
-| **Order by** | Dropdown | Set the Order of the 6-1 Products Grid. | Menu Order
-| **Order Direction** | Dropdown | Set the direction order for the 6-1 Products Grid. | Descending
-| ** Extra Class ** | Text | Additional classes that may be applied to the banner. | none
+| **Show** | Dropdown | Choose what type of products you want to show in the grid. | Recent Products
+| **IDs** | Text | IDs of the products that you want to show in the grid separated by comma.| none
+| ** SKUs ** | Text | SKUs of the products that you want to show in the grid separated by comma. |  none
+| ** Category ** | Text |  Category of the products that you want to show in the grid separated by comma. | none
+| **Order by** | Dropdown | Set the Order of the Products. | Menu Order
+| **Order Direction** | Dropdown | Set the direction order for the Products. | Descending
 
 
 ## Sample Output
 
-![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/vc-ProductsCarousel-output.png)
+![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/vc-6-1grid-output.png)

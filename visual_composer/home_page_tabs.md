@@ -2,7 +2,7 @@
 
 ## Description
 
-Allows you to Update the Tabs Titles and the Content for the Tabs.
+Allows you to add product tabs that contains 3 tabs to your home page.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/vc-homePageTab-setting.png)
 

@@ -1,5 +1,7 @@
 # FAQ
 
+<div class="alert alert-info">**Info** : This section is incomplete. More questions will be added as we receive more questions from our customers</div>
+
 #### Can I use a text logo instead of Image ?
 
 Yes, you can use a text instead of an image as your logo.

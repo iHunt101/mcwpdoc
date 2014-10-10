@@ -3,7 +3,7 @@
 
 ## Description
 
-Allows you to Update Latitude and Longitude to Google Map.It also allow you to set Zoom for Google Maps.
+Add a Google map with a location marked at its center. To mark the location, you need to know the latitude and longitude position of the location.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/vc-googleMap-setting.png)
 
@@ -11,9 +11,10 @@ Allows you to Update Latitude and Longitude to Google Map.It also allow you to s
 
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
-| **Latitude** | Text |Update a Latitude for Google Map. | none
-| **Longitude** | Text |Update a Longitude for Google Map.| none
-| **Zoom** | Text |Update a Zoom for Google Map.| none
+| **Latitude** | Text |Latitute of the point that needs to be marked. | none
+| **Longitude** | Text |Longitude.| none
+| **Zoom** | Text |Zoom level for Google Map.| none
+| ** Add Get Direction ** | Dropdown | Adds a *Get Direction* form | Yes
 | ** Extra Class ** | Text | Additional classes that may be applied to the banner. | none
 
 

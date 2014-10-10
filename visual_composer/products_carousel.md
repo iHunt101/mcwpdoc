@@ -2,7 +2,7 @@
 
 ## Description
 
-Allows you to add a Products Carousel title and ordering of it. It also allows you to set the category of the products and a number of Products to be display.
+Allows you to add a carousel of products to your page. You can choose from predefined set of products like recent products, featured products, on-sale products, etc or you can specify the IDs/SKUs of products you wish to display in the carousel.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/vc-ProductsCarousel-setting..png)
 
@@ -11,10 +11,10 @@ Allows you to add a Products Carousel title and ordering of it. It also allows y
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
 | **Title** | Text | Title of the Products Carousel. | none
-| **Show** | Dropdown | Used to choose a type of products that you want to show in the carousel. | Recent Products
-| **IDs** | Text | Here you can specify IDs of the products that you want to show when it call by  Products ID.| none
-| ** SKUs ** | Text |  Here you can specify SKUs of the Products that you want to show when it call by  Products SKUs. |  none
-| ** Category ** | Text |  Here you can specify the category slug of the category of products you want to show when it call by  Products Category. | none
+| **Show** | Dropdown | Choose what type of products you want to show in the carousel. | Recent Products
+| **IDs** | Text | IDs of the products that you want to show in the carousel separated by comma.| none
+| ** SKUs ** | Text | SKUs of the products that you want to show in the carousel separated by comma. |  none
+| ** Category ** | Text |  Category of the products that you want to show in the carousel separated by comma. | none
 | **Order by** | Dropdown | Set the Order of the Products. | Menu Order
 | **Order Direction** | Dropdown | Set the direction order for the Products. | Descending
 | **No of Products** | Text | Number of Product to be display in Product Carousel. | 12

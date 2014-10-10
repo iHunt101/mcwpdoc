@@ -2,7 +2,7 @@
 
 ## Description
 
-Allows you to set a Title for your Vertical Menu then You can set a class for Title icon,Trigger and Animation effect. It also allows you to list a Menu as a ID, slug, or name.
+Allows add a vertical menu to your page. Usually added to home page.
 
 ![](https://raw.githubusercontent.com/ibndawood/mcwpdoc/master/assets/images/vc-verticalMenu-setting.png)
 
@@ -11,10 +11,10 @@ Allows you to set a Title for your Vertical Menu then You can set a class for Ti
 | Field | Type | Description | Default
 | -- | -- | -- | -- |
 | **Title** | Text | Title for Vertical Menu. | none
-| **Title Icon Class** | Text | Set a class for Title Icon. | fa-list
-| **Menu** | Text |Displaying type of a Menu (ID, slug, or name). |  none |
-| ** Dropdown Trigger ** | Dropdown | Set a Trigger Option for Vertical Menu. | Click|
-| ** Dropdown Animation ** | Dropdown | Set a Animation effect for Vertical Menu. | No Animation
+| **Title Icon Class** | Text | Fontawesome icon class. | fa-list
+| **Menu** | Text |ID, slug or name of the menu. |  none |
+| ** Dropdown Trigger ** | Dropdown | Trigger action for dropdown. | Click|
+| ** Dropdown Animation ** | Dropdown | Dropdown animation on dropdown trigger. | No Animation
 | ** Extra Class ** | Text | Additional classes that may be applied to the banner. | none
 
 ## Sample Output

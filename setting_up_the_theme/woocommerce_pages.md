@@ -11,6 +11,6 @@ Upon installation of the **WooCommerce** plugin, it creates the following new pa
 
 In addition to the above pages there are few other WooCommerce pages that **MediaCenter** supports. They are:
 
-1. Wishlist
-2. Product Comparison
-3. Track your Order
+1. [**Wishlist**](setting_up_the_theme/wishlist.md)
+2. [**Product Comparison**](setting_up_the_theme/product_comparison.md)
+3. [**Track your Order**](setting_up_the_theme/track_your_order.md)

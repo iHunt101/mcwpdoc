@@ -8,6 +8,7 @@
 6. Navigate to **MC Options > Shop Tab > Shop Page Settings**.
 7. Click on the dropdown next to **Product Comparison Page** and select the page you just created.
 8. Scroll down and click on **Save Changes**.
+9. Navigate to **WooCommerce > Settings > Products Compare** tab and uncheck the **Open automatically lightbox** option.
 
 ## Product Comparison Page Editor
 
