@@ -12,7 +12,6 @@ The following is the list of plugins that are required and recommended for use w
 * **[Contact From 7](https://wordpress.org/plugins/contact-form-7/)** — Allows you create contact forms.
 * **[Visual Composer](http://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)** - This is a drag and drop frontend and backend page builder plugin that will save you tons of time working on the site content. This is a premium plugin and comes bundled with your theme.
 * **[Slider Revolution](http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/)** - Allows you to create a responsive(mobile friendly) or fullwidth slider with must-see-effects and meanwhile keep or build your SEO optimization. This is a premium plugin and comes bundled with your theme.
-* ** [Envato Toolkit](https://github.com/envato/envato-wordpress-toolkit)** - Used for updating the theme directly from your ThemeForest account.
 * ** MediaCenter Extensions ** - This is a custom plugin built by Transvelo. Keeping in mind the plugin territory recommendations by ThemeForest we had implemented custom shortcodes and taxonomies functionalities into a separate plugin. This plugin also contains the Visual Composer extensions added by us.
 
 ## Installation
